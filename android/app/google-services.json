@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467613664908",
+    "project_id": "coin-play-cc27e",
+    "storage_bucket": "coin-play-cc27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467613664908:android:2601e81df95471e3061da9",
+        "android_client_info": {
+          "package_name": "com.example.coinplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467613664908-slrsm6ic0n97v671rovatt166cpd32d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qxWdeWMSYPumSOMuno_PyapOQrr0JrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467613664908-slrsm6ic0n97v671rovatt166cpd32d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
